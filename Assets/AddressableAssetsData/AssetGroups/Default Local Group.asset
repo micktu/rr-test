@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c9bcdd0123bc6a942b46d934fe4a3313
+  m_SerializeEntries:
+  - m_GUID: bcf73df9c588f834987aeb2f9efd46e0
+    m_Address: CardManager
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8088274789790812555, guid: bcf73df9c588f834987aeb2f9efd46e0,
+      type: 3}
+    m_TargetAsset: {fileID: 8088274789790812555, guid: bcf73df9c588f834987aeb2f9efd46e0,
+      type: 3}
+  - m_GUID: cc04c2fdcc905a14cbd7a163f547ca36
+    m_Address: CardView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5918949328358892045, guid: cc04c2fdcc905a14cbd7a163f547ca36,
+      type: 3}
+    m_TargetAsset: {fileID: 5918949328358892045, guid: cc04c2fdcc905a14cbd7a163f547ca36,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3b75928e7b24af841bd191f57c4aef98, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4c597f1e177a6734f937445c1f1a8f05, type: 2}
+    - {fileID: 11400000, guid: 027d9ed926ccffc4fab00b5dec7f41e3, type: 2}
